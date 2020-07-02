@@ -1,0 +1,43 @@
+.nextEvent{
+    margin: 10px 250px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #F6EDD7;
+    background-color: #F6EDD726;
+    color: #F6EDD7;
+    box-shadow: 2px 2px 9px #F6EDD7;
+    margin-bottom: 50px;
+}
+
+.nextEvent h2{
+    text-shadow: 1px 1px 2px black;
+    position: relative;
+    text-align: center;
+}
+.nextEvent h2::before{
+    content: "PROCHAIN CONCERT";
+    text-shadow: 1px 1px 2px #F6EDD726;
+    font-size: 48px;
+    color: #19191926;
+    position: absolute;
+    top: -90px;
+    left: 0;
+    width: 500px;
+    letter-spacing: 2px;
+}
+.eventPlace{
+    display: flex;
+}
+
+.eventPlace img{
+    width: auto;
+    height: 200px;
+    border: 1px solid #F6EDD7;
+    box-shadow: 1px 1px 2px #F6EDD7;
+}
+
+.eventPlaceImg{
+    margin-right: 20px;
+}

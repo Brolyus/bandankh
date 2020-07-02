@@ -1,0 +1,18 @@
+.groupe{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.member{
+    position: relative;
+    border: 1px solid #F6EDD7;
+    box-shadow: 2px 2px 9px #F6EDD7;
+    margin: 20px;
+    height: 300px;
+    width: 700px;
+    overflow: hidden;
+    border-radius: 25px;
+    background: black;
+}

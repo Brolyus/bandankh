@@ -1,0 +1,36 @@
+.footer{
+    display: flex;
+    background-color: #F6EDD726;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+    position: relative;
+    bottom: 0;
+    color: #F6EDD7;
+}
+
+.footer ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+.footer ul li{
+    width: 60px;
+}
+
+.footer ul a .logoRs{
+    height: 30px;
+    margin: 0 10px;
+}
+.footer ul a img:hover{
+    height: 40px;
+}
+
+.credits{
+    display: flex;
+}
+
+.credits p {
+    margin: 0 10px;
+}

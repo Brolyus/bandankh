@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Jimmy",
+        "nickname": "Ninety",
+        "role": "Guitariste rythmique et parfois solo. Chœurs",
+        "description": "Il commence la musique jeune, prend des cours de musique à l'âge de 8 ans et obtient son examen de solfège à l’âge de 10 ans (section rythmique). Il découvre la musique Punk avec l'album \"Houlala 2 la mission\" des Ludwig Von 88. Très éclectique musicalement, il reste influencé par la musique des 90's et de groupes comme Nirvana, NoFx, Offspring, Sonic Youth, etc.. Avec lesquels il grandit.",
+        "image": "/images/cartes/PhotoJim.jpg"
+    },
+    {
+        "name": "Seb",
+        "nickname": "Gam",
+        "role": "Hurleur",
+        "description": "Ancien bassiste dans Les Chirurgiens. Hurleur dans Band'Ankh depuis le début (2013).",
+        "image":"/images/cartes/PhotoSeb.jpg"
+    },
+    {
+        "name": "Alex",
+        "nickname": "Mad Marx",
+        "role": "Bassiste",
+        "description": "Plus jeune moussaillon du navire Band'Ankh, il collectivise les moyens de navigation. Il a déjà mis sa puissance dialectique au service des camarades de The Ghost In The Machine (Blues Rock) et de Ookami (Death Mélodique) derrière les fûts. Il navigue aussi dans les eaux troubles de Drowning Soul (Death Core Progressif).",
+        "image":"/images/cartes/PhotoAlex.jpg"
+    },
+    {
+        "name": "Sam",
+        "nickname": "Catlord",
+        "role": "Hurleur",
+        "description": "Pirate en chef de l’équipage Band’Ankh. A commencé à faire mal aux oreilles avec Les irradiés, puis avec Les Chirurgiens avant d’être avec Band’Ankh depuis le début (2013)",
+        "image":"/images/cartes/PhotoSam.jpg"
+    },
+    {
+        "name": "Arnaud",
+        "nickname": "Docteur Métal",
+        "role": "Guitariste solo",
+        "description": "A été guitariste dans Les Chirurgiens et fais partie de Band’Ankh depuis le début (2013)",
+        "image":"/images/cartes/PhotoDoc.jpg"
+    },
+    {
+        "name": "Stéphane",
+        "nickname": "Le Chinois",
+        "role": "Batteur et choeurs",
+        "description": "Batteur du groupe \"les irradiés\" 1993 ( Reims ). Batteur du groupe \"Golpe de Estado\" 1994-2004 ( Reims ). Batteur du groupe \"Gilbert et ses problémes\" 2001 ( Montpellier). Batteur - clavier dream-team du groupe \"Skarface\" 1997-1999 ( Paris ). Batteur actuel du groupe \"Band'Ankh\" depuis 2017",
+        "image":"/images/cartes/PhotoKob.jpg"
+    }
+]
