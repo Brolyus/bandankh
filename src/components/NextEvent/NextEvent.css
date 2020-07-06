@@ -23,12 +23,13 @@
     color: #19191926;
     position: absolute;
     top: -90px;
-    left: 0;
-    width: 500px;
+    left: -25px;
+    width: 540px;
     letter-spacing: 2px;
 }
 .eventPlace{
     display: flex;
+    margin-bottom: 20px;
 }
 
 .eventPlace img{

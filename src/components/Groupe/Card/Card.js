@@ -11,7 +11,7 @@ function Card({name, nickname, role, description, image}) {
   })
   return (
     <div className="member" onClick={() => set(state => !state)}>
-        <animated.div class="c back" style={{ opacity: opacity.interpolate(o => 1 - o), transform, backgroundImage: `url(${image})`}} />
+        <animated.div class={`c back ${nickname.toLowerCase().replace(/\s/g, "")}`} style={{ opacity: opacity.interpolate(o => 1 - o), transform, backgroundImage: `url(${image})`}} />
         <animated.div class="c front" style={{ opacity, transform: transform.interpolate(t => `${t} rotateX(180deg)`) }}>
             <h2>{name} - {nickname}</h2>
             <h3>{role}</h3>

@@ -1,0 +1,225 @@
+[
+    {
+        "2018": [
+            {
+                "day": "10",
+                "month": "Novembre",
+                "place": "DropKick Bar",
+                "city": "Reims",
+                "department": "51",
+                "otherGroups": ""
+            },
+            {
+                "day": "13",
+                "month": "Octobre",
+                "place": "ArdenRockMetalFest",
+                "other": "Salle des fêtes",
+                "city": "Sault Les Rethel",
+                "department": "08",
+                "otherGroups": ["Born Burn", "Varanv", "Atrystos", "Protogonos", "Strinking Back"]
+            },
+            {
+                "day": "22",
+                "month": "Septembre",
+                "place": "ASCI Witry",
+                "other": "Salle des fêtes",
+                "city": "Witry Les Reims",
+                "department": "51",
+                "otherGroups": "Les Talents Aiguilles"
+            },
+            {
+                "day": "14",
+                "month": "Juillet",
+                "place": "Coyote Café",
+                "city": "Laon",
+                "department": "02",
+                "otherGroups": ""
+            },
+            {
+                "day": "30",
+                "month": "Avril",
+                "place": "Floyd Café",
+                "city": "Reims",
+                "department": "51",
+                "otherGroups": "Triste Temps"
+            },
+            {
+                "day": "7",
+                "month": "Avril",
+                "place": "Sève'stival",
+                "city": "Reims",
+                "department": "51",
+                "otherGroups": ""
+            }
+        ],
+        "2017": [
+            {
+                "day": "8",
+                "month": "Décembre",
+                "place": "Médiathèque Yves Coppens",
+                "city": "Signy L'Abbaye",
+                "department": "08",
+                "otherGroups": ""
+            },
+            {
+                "day": "25",
+                "month": "Novembre",
+                "place": "DropKick Bar",
+                "city": "Reims",
+                "department": "51",
+                "otherGroups": "Striking Back"
+            },
+            {
+                "day": "29",
+                "month": "Septembre",
+                "place": "DropKick Bar",
+                "city": "Reims",
+                "department": "51",
+                "otherGroups": ["Black Clover", "Les Ramoneurs de Menhirs"]
+            },
+            {
+                "day": "8",
+                "month": "Juillet",
+                "place": "Coyote Café",
+                "city": "Laon",
+                "department": "02",
+                "otherGroups": ""
+            },
+            {
+                "day": "17",
+                "month": "Juin",
+                "place": "Kraken Pub",
+                "city": "Saint Quentin",
+                "department": "02",
+                "otherGroups": ""
+            },
+            {
+                "day": "2",
+                "month": "Avril",
+                "place": "Sève'stival",
+                "city": "Reims",
+                "department": "51",
+                "otherGroups": ""
+            }
+        ],
+        "2016": [
+            {
+                "day": "16",
+                "month": "Décembre",
+                "place": "Freaked Studio",
+                "city": "Bétheny",
+                "department": "51",
+                "otherGroups": "Austerlitz"
+            },
+            {
+                "day": "9",
+                "month": "Juillet",
+                "place": "Ludoval",
+                "city": "Reims",
+                "department": "51",
+                "otherGroups": "Résilience"
+            },
+            {
+                "day": "21",
+                "month": "Juin",
+                "place": "Cimer Jack",
+                "city": "Reims",
+                "department": "51",
+                "otherGroups": ""
+            },
+            {
+                "day": "5",
+                "month": "Mars",
+                "place": "Scènes ouvertes",
+                "city": "Monthermé",
+                "department": "08",
+                "otherGroups": "Chamouth"
+            },
+            {
+                "day": "30",
+                "month": "Janvier",
+                "place": "DropKick Bar",
+                "city": "Reims",
+                "department": "51",
+                "otherGroups": "Le Chien Rouge"
+            }
+        ],
+        "2015": [
+            {
+                "day": "27",
+                "month": "Novembre",
+                "place": "Freaked Studio",
+                "city": "Bétheny",
+                "department": "51",
+                "otherGroups": ""
+            },
+            {
+                "day": "5",
+                "month": "Septembre",
+                "place": "Excalibur",
+                "city": "Reims",
+                "department": "51",
+                "otherGroups": ["Wheel On Fire", "Le Chien Rouge"]
+            },
+            {
+                "day": "13",
+                "month": "Juin",
+                "place": "Excalibur",
+                "city": "Reims",
+                "department": "51",
+                "otherGroups": ["Wheel On Fire", "The Ghost In The Machine"]
+            },
+            {
+                "day": "27",
+                "month": "Mai",
+                "place": "Excalibur",
+                "city": "Reims",
+                "department": "51",
+                "otherGroups": ["Shoot The Singers", "Vegg"]
+            },
+            {
+                "day": "16",
+                "month": "Mai",
+                "place": "Cheval Art Action",
+                "other": "La Tuilerie",
+                "city": "Reims",
+                "department": "51",
+                "otherGroups": ["Le Chien Rouge", "Re-Pulse"]
+            },
+            {
+                "day": "21",
+                "month": "Mars",
+                "place": "Station Ubu",
+                "city": "Urcel",
+                "department": "02",
+                "otherGroups": ["Tengri", "Aka seul two", "Dosser"]
+            }            
+        ],
+        "2014":[
+            {
+                "day": "19",
+                "month": "Décembre",
+                "place": "Excalibur",
+                "city": "Reims",
+                "department": "51",
+                "otherGroups": ["Run Out", "Supersonic Tyranoïd"]
+            },
+            {
+                "day": "21",
+                "month": "Juin",
+                "place": "Fête de la musique au Temps des Cerises",
+                "city": "Reims",
+                "department": "51",
+                "otherGroups": ""
+            },
+            {
+                "day": "19",
+                "month": "Juin",
+                "place": "Excalibur",
+                "city": "Reims",
+                "department": "51",
+                "otherGroups": ["Krokodil", "Supersonic Tyranoïd"]
+            }
+        ]
+    }
+]

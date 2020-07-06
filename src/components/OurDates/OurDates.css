@@ -1,0 +1,36 @@
+.OurDates{
+    min-height: 80vh;
+    margin: 10px 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #F6EDD7;
+    background-color: #F6EDD726;
+    color: #F6EDD7;
+    box-shadow: 2px 2px 9px #F6EDD7;
+}
+
+.yearEvents{
+
+}
+
+.year{
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    border-top: solid 1px #F6EDD7;
+    border-bottom: solid 1px #F6EDD7;
+    width: 100%;
+    text-align: center;
+}
+
+.eventDate{
+    color: black;
+    font-weight: 700;
+}
+
+.year:nth-child(odd){
+    background-color: #F6EDD726;
+}
+.year:nth-child(even){
+    color: #F6EDD7;
+}

@@ -10,6 +10,30 @@
   .back {
     background-size: cover;
   }
+
+  .ninety{
+    background-position: 50% 25%;
+  }
+
+  .gam{
+    background-position: 50% 9%;
+  }
+
+  .madmarx{
+    background-position: 50% 12%;
+  }
+
+  .catlord{
+    background-position: 50% 20%;
+  }
+
+  .docteurmétal{
+    background-position: 50% 16%;
+  }
+
+  .lechinois{
+    background-position: 50% 18%;
+  }
   
   .front {    
     color: white;
