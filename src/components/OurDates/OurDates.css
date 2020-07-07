@@ -31,6 +31,11 @@
 .year:nth-child(odd){
     background-color: #F6EDD726;
 }
+
 .year:nth-child(even){
     color: #F6EDD7;
+}
+.year:hover{
+    color: black;
+    cursor: pointer;
 }
