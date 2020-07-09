@@ -72,6 +72,7 @@ class Medias extends Component {
         closePreview={this.closePreview}
         nextImage={this.nextImage}
         previousImage={this.previousImage}
+        title={this.state.imageDatas[this.state.currentImageIndex].title} 
         /> 
         : null}
       </>

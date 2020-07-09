@@ -34,3 +34,12 @@
 .credits p {
     margin: 0 10px;
 }
+
+.credits a{
+    color: inherit; 
+  text-decoration: inherit; 
+}
+
+.credits a:hover{
+    opacity: 0.6;
+}

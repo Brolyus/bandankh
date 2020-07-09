@@ -9,6 +9,7 @@ html,body{
     -o-background-size: cover;
     background-size: cover;
     background-color: #191919;
+    min-height: 100vh;
 }
 
 h1, h2, h3{

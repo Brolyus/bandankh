@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import { Map, Marker, Popup, TileLayer } from "react-leaflet";
-import { OpenStreetMapProvider } from "leaflet-geosearch";
 import "./NextEventMap.css";
 
 import "./NextEventMap.css";

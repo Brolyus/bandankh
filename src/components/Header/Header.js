@@ -33,9 +33,9 @@ const Header = () => {
         <li className="navLogo">
           <Link to="/">
             {nameLogo ? (
-              <img className="mainLogo" src="./images/logos/logofondnoir.png" />
+              <img className="mainLogo" src="./images/logos/logofondnoir.png" alt="logo du groupe"/>
             ) : (
-              <img className="altLogo" src="./images/logos/logoheader.png" />
+              <img className="altLogo" src="./images/logos/logoheader.png" alt="logo du groupe"/>
             )}
           </Link>
         </li>
