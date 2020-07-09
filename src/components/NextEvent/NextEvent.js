@@ -1,13 +1,11 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import Countdown from "./Countdown/Countdown";
 import NextEventMap from "./NextEventMap/NextEventMap";
 import './NextEvent.css'
 
 const NextEvent = () => {
-  const [eventDate, setEventDate] = useState(``)
-  useEffect(() => {
-    setEventDate("2020-08-17T21:15:00")
-  }, [eventDate])
+  const [eventDate, setEventDate] = useState(`2020-08-17T21:15:00`)
+  console.log(setEventDate)
 
   const changeDateFormat = (eventDateInput) => {
     eventDateInput = eventDateInput.split('T')
@@ -21,9 +19,7 @@ const NextEvent = () => {
 
     return contentToReturn
   }
-  if (eventDate !== "") {
-    changeDateFormat(eventDate)
-  }
+  changeDateFormat(eventDate)
   return (
     <div className="nextEvent">
       <h2>
